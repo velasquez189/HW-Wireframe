@@ -1,0 +1,92 @@
+/* This is a hell of a lot of lines but it's my first project...Please bear the inconsistency */
+
+body {
+    font-size: 24px;
+    line-height: 10px;
+    color: black);
+    background: grey;
+}
+
+.wrapper {
+    width: 1000px;
+    padding: 5px;
+    margin: auto;
+}
+
+h1 {
+    padding: 0px;
+    margin: 19px;
+    margin-bottom: 19px;
+    color: black;
+    font-size: 32;
+    text-align: center;
+}
+header {
+    padding: 25px;
+    margin-bottom: 25px;
+    color: black;
+    background: white;
+}
+
+/* Relative Div */
+section {
+    position: relative;
+    background: white;
+    padding: 171px;
+    margin: 4px;
+    height: 33px;
+    width: 181px;
+    text-align: center;
+    margin-bottom: 30px;
+    float: none;
+}
+
+/* Relative Div */
+aside {
+    position: relative;
+    background: white;
+    height: 433px;
+    width: 398px;
+    text-align: center;
+    margin-bottom: 30px;
+    float: right;
+}
+
+article {
+    background: grey;
+    padding: 79px;
+    margin: -64px 0px 0px -180px;
+    height: 118px;
+    width: 382px;
+    text-align: center;
+    margin-bottom: 30px;
+    float: left;
+}
+
+h3 {
+    background: white;
+    display: inline-block;
+    height: 82px;
+    margin: 0px 0px 12px -53px;
+    width: 476px;
+}
+
+p {
+    background: white;
+    display: inline-block;
+    height: 82px;
+    width: 476px;
+    margin: 0px 0px 0px -53px;
+}
+
+/* footer */
+footer {
+    clear: both;
+    background: white;
+    height: 100px;
+    text-align: center;
+}
+
+section{
+    padding: 200px;
+}
